@@ -8,6 +8,6 @@
     <body>
         <h1>Hello user! Welcome to Continuous Delivery!</h1>
         
-        GET all the <a href="${pageContext.request.contextPath}/resources/persons"/>persons</a>.
+        GET all the... <a href="${pageContext.request.contextPath}/resources/persons"/>persons</a>.
     </body>
 </html>
