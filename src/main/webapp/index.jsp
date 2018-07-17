@@ -3,7 +3,7 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>Hello Java EE 7 Continuous Delivery!</title>
+        <title>Hello user! Welcome to Continuous Delivery!</title>
     </head>
     <body>
         <h1>Hello user! Welcome to Continuous Delivery!</h1>
